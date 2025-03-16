@@ -28,3 +28,8 @@ The Vehicle Tracking System using IoT is designed to monitor and track vehicles 
 3. Cloud platform stores data for real-time tracking.
 
 4. User accesses vehicle location via a web dashboard or mobile app.
+
+   
+ 🔗 GitHub: [My Profile](https://github.com/Harhsalj23)
+
+📊 Project: [View on Prezi](https://prezi.com/view/wc8Wiaypw2jEAL3vHn59/)
